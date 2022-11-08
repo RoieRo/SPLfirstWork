@@ -4,6 +4,7 @@ Agent::Agent(int agentId, int partyId, SelectionPolicy *selectionPolicy) : mAgen
 {
     // You2 can change the implementation of the constructor, but not the signature!
     // Roie, what is a constructor?
+    // Roie, what is a signature?
 }
 
 int Agent::getId() const
