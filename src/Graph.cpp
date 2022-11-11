@@ -13,6 +13,7 @@ int Graph::getMandates(int partyId) const
 int Graph::getEdgeWeight(int v1, int v2) const
 {
     return mEdges[v1][v2];
+    // jjj
 }
 
 int Graph::getNumVertices() const

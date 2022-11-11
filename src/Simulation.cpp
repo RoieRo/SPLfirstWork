@@ -17,13 +17,14 @@ void Simulation::step()
        {
           //mGraph[i].getParty.step()
        }
-          
+        
     
 }
 
 bool Simulation::shouldTerminate() const
 {
-    // TODO implement this method
+    // TODO implement this method today
+    
     return true;
 }
 
